@@ -58,14 +58,11 @@ Focused on performance optimization, system-level programming, and practical ML 
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
-> Replace `YOUR_USERNAME` with your actual GitHub username.
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RadaevKirill&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RadaevKirill&layout=compact)
 ---
 
 ## Contact
 
-- Email: mr.lolmast@gmail.com  
-- GitHub: https://github.com/YOUR_USERNAME
+- Email: k.radaev.k@gmail.com  
+- GitHub: https://github.com/RadaevKirill
