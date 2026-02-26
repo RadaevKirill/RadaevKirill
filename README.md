@@ -5,7 +5,6 @@
 Design and development of automation systems, analytical pipelines, and data processing tools.  
 Focused on performance optimization, system-level programming, and practical ML integration.
 
----
 
 ## Core Areas
 
@@ -15,19 +14,13 @@ Focused on performance optimization, system-level programming, and practical ML 
 - Low-level / system programming  
 - Embedded systems and electronics  
 
----
-
 
 ## Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,sql,bash,pandas,numpy,sklearn,fastapi,docker,linux,git" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,cs,postgres,bash,fastapi,docker,linux,git,github,sklearn,tensorflow,anaconda,aws" />
 </p>
 
----
-
-
----
 
 ## Current Focus
 
@@ -35,14 +28,6 @@ Focused on performance optimization, system-level programming, and practical ML 
 - ETL automation  
 - Production ML integration  
 - Hardware-level development  
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RadaevKirill&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RadaevKirill&layout=compact)
----
 
 ## Contact
 
