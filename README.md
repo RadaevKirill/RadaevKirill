@@ -17,33 +17,15 @@ Focused on performance optimization, system-level programming, and practical ML 
 
 ---
 
-## Technology Stack
 
-### Languages
-- Python  
-- C / C++  
-- SQL  
-- Bash  
+## Tech Stack
 
-### Data / ML
-- Pandas  
-- NumPy  
-- Scikit-learn  
-- Matplotlib  
-- Jupyter  
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,sql,bash,pandas,numpy,sklearn,fastapi,docker,linux,git" />
+</p>
 
-### Backend / DevOps
-- FastAPI  
-- Docker  
-- Linux  
-- Git  
-- CI/CD  
+---
 
-### Embedded / Low-level
-- UART / SPI / I2C  
-- Microcontrollers  
-- Memory optimization  
-- Performance tuning  
 
 ---
 
